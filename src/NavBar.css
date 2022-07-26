@@ -1,0 +1,34 @@
+.navigation-bar {
+    width: 85%;
+    padding: 4rem 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-bar h1 a {
+    font-size: 3rem;
+    font-weight: lighter;
+    color: tomato;
+    text-decoration: none;
+}
+
+.navigation-bar ul {
+    list-style: none;
+}
+
+.navigation-bar ul li {
+    display: inline;
+    margin-left: 3rem;
+}
+
+.navigation-bar ul li a {
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+    transition: all 1s;
+}
+
+.navigation-bar ul li a:hover {
+    color: tomato;
+}

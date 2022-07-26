@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Welcome to iBlog",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore iure placeat voluptates ea ad quis inventore id cum natus! Veniam delectus ducimus totam at, deleniti, itaque quibusdam autem repellat vel repudiandae unde sed atque aliquam rerum officia. Harum omnis inventore iste asperiores, mollitia vero. Laborum, tempora iure maxime eaque impedit nisi ullam illum dolores itaque rem rerum? Quas consequatur quae facere qui debitis, deserunt laudantium, officiis ipsa tempore molestiae quibusdam necessitatibus eius sit vel illum ut voluptates tempora dolore. Nemo rem fugiat, possimus repellat magnam et neque quaerat non quidem ex, libero quas itaque doloribus error nihil obcaecati impedit soluta?",
+            "author": "Emmanuel Elugbaju"
+        },
+        {
+            "id": 2,
+            "title": "This is My Second Post",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore iure placeat voluptates ea ad quis inventore id cum natus! Veniam delectus ducimus totam at, deleniti, itaque quibusdam autem repellat vel repudiandae unde sed atque aliquam rerum officia. Harum omnis inventore iste asperiores, mollitia vero. Laborum, tempora iure maxime eaque impedit nisi ullam illum dolores itaque rem rerum? Quas consequatur quae facere qui debitis, deserunt laudantium, officiis ipsa tempore molestiae quibusdam necessitatibus eius sit vel illum ut voluptates tempora dolore. Nemo rem fugiat, possimus repellat magnam et neque quaerat non quidem ex, libero quas itaque doloribus error nihil obcaecati impedit soluta?",
+            "author": "Emmanuel Elugbaju"
+        },
+        {
+            "id": 3,
+            "title": "Hello there. This is John",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore iure placeat voluptates ea ad quis inventore id cum natus! Veniam delectus ducimus totam at, deleniti, itaque quibusdam autem repellat vel repudiandae unde sed atque aliquam rerum officia. Harum omnis inventore iste asperiores, mollitia vero. Laborum, tempora iure maxime eaque impedit nisi ullam illum dolores itaque rem rerum? Quas consequatur quae facere qui debitis, deserunt laudantium, officiis ipsa tempore molestiae quibusdam necessitatibus eius sit vel illum ut voluptates tempora dolore. Nemo rem fugiat, possimus repellat magnam et neque quaerat non quidem ex, libero quas itaque doloribus error nihil obcaecati impedit soluta?",
+            "author": "John Doe"
+        }
+    ]
+}

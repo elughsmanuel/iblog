@@ -1,0 +1,37 @@
+.blog-list h1 {
+    font-size: 4rem;
+    font-weight: lighter;
+    color: tomato;
+    margin-bottom: 4rem;
+}
+
+.blog-preview {
+    width: 100%;
+    padding: 1.5rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.blog-preview h1 {
+    margin-bottom: .5rem;
+}
+
+.blog-preview a {
+    font-size: 2.5rem;
+    color: black;
+    font-weight: lighter;
+    text-decoration: none;
+    transition: all 1s;
+}
+
+.blog-preview a:hover {
+    color: tomato;
+}
+
+.blog-preview p {
+    font-size: 1.2rem;
+    color: gray;
+}
+
+.blog-preview p span {
+    font-weight: bolder;
+}

@@ -1,0 +1,67 @@
+.blog-details h2 {
+    font-size: 4rem;
+    color: tomato;
+    font-weight: lighter;
+    margin-bottom: 3rem;
+}
+.blog-details h5 {
+    font-size: 1.2rem;
+    font-weight: lighter;
+    color: gray;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.blog-details h5 span {
+    font-weight: bold;
+}
+
+.blog-details p {
+    font-size: 1.5rem;
+    color: black;
+    line-height: 3rem;
+    margin-bottom: 5rem;
+}
+
+.btn-con {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-details button {
+    font-size: 1.5rem;
+    padding: 1rem 3rem;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    text-transform: uppercase;
+    transition: all 1s;
+    margin-bottom: 4rem;
+    cursor: pointer;
+}
+
+.blog-details button:hover {
+    color: white;
+    background-color: black;
+}
+
+.blog-details button a {
+    color: black;
+    text-decoration: none;
+}
+
+.blog-details button:hover a {
+    color: white;
+}
+
+.btn-con .danger {
+    color: red;
+    background-color: white;
+    border: 2px solid red;
+}
+
+.btn-con .danger:hover {
+    color: white;
+    background-color: red;
+}
