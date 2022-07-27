@@ -31,12 +31,12 @@
 
 .blog-details button {
     font-size: 1.5rem;
-    padding: 1rem 3rem;
+    padding: 1.5rem 4.5rem;
     color: black;
     background-color: white;
     border: 2px solid black;
     text-transform: uppercase;
-    transition: all 1s;
+    transition: all 2s;
     margin-bottom: 4rem;
     cursor: pointer;
 }

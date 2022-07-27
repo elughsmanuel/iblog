@@ -1,0 +1,36 @@
+.not-found {
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.not-found h1 {
+    font-size: 15rem;
+    color: #ececec;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.not-found p {
+    font-size: 2rem;
+    color: #6d6d6d;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 5rem;
+}
+
+.not-found button {
+    font-size: 1.5rem;
+    padding: 1.5rem 4.5rem;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    text-transform: uppercase;
+    transition: all 2s;
+    margin-bottom: 4rem;
+    cursor: pointer;
+}
+
+.not-found button:hover {
+    color: white;
+    background-color: black;
+}

@@ -1,14 +1,8 @@
-.blog-list h1 {
-    font-size: 4rem;
-    font-weight: lighter;
-    color: tomato;
-    margin-bottom: 4rem;
-}
-
 .blog-preview {
     width: 100%;
     padding: 1.5rem 1rem;
     margin-bottom: 2rem;
+    transition: all 3s;
 }
 
 .blog-preview h1 {

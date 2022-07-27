@@ -16,3 +16,10 @@ body {
     max-width: 114rem;
     margin: 0 auto;
 }
+
+.heading-main {
+    font-size: 4rem;
+    font-weight: lighter;
+    color: tomato;
+    margin-bottom: 4rem;
+}
